@@ -11,7 +11,6 @@ what i'm currently up to
 - 🌻 leading design/marketing @ [hackcanada](https://hackcanada.org/), [ghsen](https://www.ghsen.org/)
 - 🌻 at hopkins, i'm involved in jhu's acm-icpc team, wics, volunteers for medical engineering, bme medical device design team; organizing hophacks, greenhacks
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=cheollie&card_width=750&background=45%2CFDE6A4%2CFFFFFF&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 what i've worked on in the past:
 - [signematic](https://github.com/fiona-cai/Signematic): sign language interpretation "captions" for digital media (won @ jamhacks)
@@ -25,7 +24,9 @@ what i've worked on in the past:
 
 some of my skills:
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,react,django,flask,js,nextjs,ts,html,css,bootstrap,tailwind,figma,blender,sketchup,ps,ai,ruby,processing,github,vscode&perline=22&theme=light)](https://github.com/cheollie "skills")
+|[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=cheollie&card_width=400&background=45%2CFDE6A4%2CFFFFFF&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats) |[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,react,django,flask,js,nextjs,ts,html,css,bootstrap,tailwind,figma,blender,sketchup,ps,ai,ruby,processing,github,vscode&perline=11&theme=light)](https://github.com/cheollie "skills") |
+|---|---|
+
 
 ---
 
