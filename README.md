@@ -11,7 +11,6 @@ what i'm currently up to
 - 🌻 leading design/marketing @ [hackcanada](https://hackcanada.org/), [ghsen](https://www.ghsen.org/)
 - 🌻 at hopkins, i'm involved in jhu's acm-icpc team, wics, volunteers for medical engineering, bme medical device design team; organizing hophacks, greenhacks
 
-
 what i've worked on in the past:
 - [signematic](https://github.com/fiona-cai/Signematic): sign language interpretation "captions" for digital media (won @ jamhacks)
 - [medibase](https://github.com/cheollie/medibase): accessible medication assistant (won @ lyonhacks)
@@ -22,7 +21,6 @@ what i've worked on in the past:
 - [personal website](http://cheollie.github.io/)
 - [aoc](https://github.com/cheollie/aoc): five years of advent of code!
 
-some of my skills:
 
 |[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=cheollie&card_width=400&background=45%2CFDE6A4%2CFFFFFF&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats) |[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,react,django,flask,js,nextjs,ts,html,css,bootstrap,tailwind,figma,blender,sketchup,ps,ai,ruby,processing,github,vscode&perline=11&theme=light)](https://github.com/cheollie "skills") |
 |---|---|
