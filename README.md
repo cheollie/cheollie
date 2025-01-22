@@ -4,7 +4,7 @@
   chelsea 💫
 </h1>
 
-i'm a freshman at johns hopkins majoring in biomedical engineering and computer science. i'm interested in creating to help people ♥, with more specific interests in tech entrepreneurship, programming/cybersecurity (especially in ar/vr, medtech, and accessibility), art/design, and educating youth. i've also enjoyed doing hackathons, competitive programming, and cybersecurity, where i've also gotten "national" recognition in some.
+i'm a freshman at johns hopkins majoring in biomedical engineering and computer science. i'm interested in creating to help people ♥, with more specific interests in tech entrepreneurship, programming/cybersecurity (especially in ar/vr, medtech, and accessibility), art/design, and educating youth. i've also enjoyed doing hackathons, competitive programming, and cybersecurity competitions, where i've also gotten "national" recognition in some.
 
 what i'm currently up to
 - 🌻 swe @ [chapterone](https://www.startchapterone.com/)
