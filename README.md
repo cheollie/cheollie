@@ -11,9 +11,7 @@ what i'm currently up to
 - 🌻 leading design/marketing @ [hackcanada](https://hackcanada.org/), [ghsen](https://www.ghsen.org/)
 - 🌻 at hopkins, i'm involved in jhu's acm-icpc team, wics, volunteers for medical engineering, bme medical device design team; organizing hophacks, greenhacks
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=cheollie&card_width=650&background=45%2CFDE6A4%2CFFFFFF&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
-
-<img src="https://komarev.com/ghpvc/?username=cheollie&label=Profile%20views&color=56744E&style=flat" alt="counter" /> 
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=cheollie&card_width=750&background=45%2CFDE6A4%2CFFFFFF&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 what i've worked on in the past:
 - [signematic](https://github.com/fiona-cai/Signematic): sign language interpretation "captions" for digital media (won @ jamhacks)
@@ -25,12 +23,16 @@ what i've worked on in the past:
 - [personal website](http://cheollie.github.io/)
 - [aoc](https://github.com/cheollie/aoc): five years of advent of code!
 
-some of my skills
-[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,react,dj,flask,js,nextjs,ts,html,css,bootstrap,tailwind,figma,blender,sketchup,ps,ai,ruby,processing,github,vscode&perline=18&theme=light)](https://github.com/cheollie "skills")
+some of my skills:
+
+[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,react,django,flask,js,nextjs,ts,html,css,bootstrap,tailwind,figma,blender,sketchup,ps,ai,ruby,processing,github,vscode&perline=22&theme=light)](https://github.com/cheollie "skills")
 
 ---
 
 [linkedin](https://www.linkedin.com/in/chelseawong07/)  |  [devpost](http://devpost.com/cheollie)  |  [dmoj](https://dmoj.ca/user/cheollie/solved)
+
+---
+<img src="https://komarev.com/ghpvc/?username=cheollie&label=Profile%20views&color=56744E&style=flat" alt="counter" /> 
 
 <!--
 **cheollie/cheollie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
