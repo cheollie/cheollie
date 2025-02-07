@@ -9,7 +9,7 @@ i'm a freshman at johns hopkins majoring in biomedical engineering and computer 
 what i'm currently up to
 - 🌻 swe @ [chapterone](https://www.startchapterone.com/)
 - 🌻 leading design/marketing @ [hackcanada](https://hackcanada.org/), [ghsen](https://www.ghsen.org/)
-- 🌻 at hopkins, i'm involved in jhu's acm-icpc team, wics, volunteers for medical engineering, bme medical device design team; organizing hophacks, greenhacks
+- 🌻 at hopkins, i'm involved in jhu's acm-icpc team, organizing hophacks and greenhacks, bme medical device design team, wics, and volunteers for medical engineering
 
 what i've worked on in the past:
 - [signematic](https://github.com/fiona-cai/Signematic): sign language interpretation "captions" for digital media (won @ jamhacks)
