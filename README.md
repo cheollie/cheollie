@@ -12,7 +12,7 @@ what i'm currently up to
 - 🌻 at hopkins, i'm involved in jhu's acm-icpc team, organizing hophacks and greenhacks, bme medical device design team, wics, and volunteers for medical engineering
 
 what i've worked on in the past:
-- [pitcher](https://github.com/KevinZWong/Pitcher): auto interactive presentation from github repo and google drive slides (@ treehacks)
+- [pitcher](https://github.com/KevinZWong/Pitcher): auto interactive presentation from github repo and google drive link (@ treehacks)
 - [signematic](https://github.com/fiona-cai/Signematic): sign language interpretation "captions" for digital media (won @ jamhacks)
 - [medibase](https://github.com/cheollie/medibase): accessible medication assistant (won @ lyonhacks)
 - [pengage](https://github.com/cheollie/pengage): website for student engagement (nat'l finalist @ fbla cnlc)
