@@ -6,11 +6,15 @@
 
 i'm a student at johns hopkins majoring in biomedical engineering and computer science. i'm interested in creating to help people ♥, with more specific interests in tech entrepreneurship, programming/cybersecurity (especially in medtech, ar/vr, and assistive tech), art/design, and educating youth. i've also enjoyed doing hackathons, competitive programming, and cybersecurity competitions, where i've also gotten "national" recognition in some.
 
-what i'm currently up to
-- 🌻 incoming swe @ [shopify](https://shopify.com/) [summer 2025]
+what i'm currently up to:
+- 🐟 building [dorri](dorri.land) 
+- 🐟 swe @ [hubspot](https://hubspot.com/) [summer 2025]
+- 🐟 leading design/marketing @ [hackcanada](https://hackcanada.org/), [ghsen](https://www.ghsen.org/)
+- 🐟 at hopkins, i'm involved in jhu's acm-icpc team, organizing hophacks and greenhacks, bme medical device design team, wics, and volunteers for medical engineering
+
+what i was up to:
+- 🌻 tech advisor @ [scale ai](https://scale.com/) [rescinded for being too young]
 - 🌻 swe @ [chapterone](https://www.startchapterone.com/) [winter 2025]
-- 🌻 leading design/marketing @ [hackcanada](https://hackcanada.org/), [ghsen](https://www.ghsen.org/)
-- 🌻 at hopkins, i'm involved in jhu's acm-icpc team, organizing hophacks and greenhacks, bme medical device design team, wics, and volunteers for medical engineering
 
 what i've worked on in the past:
 - [pitcher](https://github.com/KevinZWong/Pitcher): auto interactive presentation from github repo and google drive link (@ stanford treehacks)
