@@ -13,7 +13,7 @@ what i'm currently up to:
 - 🐟 at hopkins, i'm involved in jhu's acm-icpc team, organizing hophacks and greenhacks, bme medical device design team, wics, and volunteers for medical engineering
 
 what i was up to:
-- 🌻 tech advisor @ [scale ai](https://scale.com/) [rescinded for being too young]
+- 🌻 gen ai intern [tech advisor] @ [scale ai](https://scale.com/) [rescinded for being too young]
 - 🌻 swe @ [chapterone](https://www.startchapterone.com/) [winter 2025]
 
 what i've worked on in the past:
