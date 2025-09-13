@@ -8,11 +8,11 @@ i'm a student at johns hopkins majoring in biomedical engineering and computer s
 
 what i'm currently up to:
 - 🐟 building [dorri](https://dorri.land) 
-- 🐟 swe @ [hubspot](https://hubspot.com/) [summer 2025]
 - 🐟 leading design/marketing @ [hackcanada](https://hackcanada.org/), [ghsen](https://www.ghsen.org/)
 - 🐟 at hopkins, i'm involved in jhu's acm-icpc team, organizing hophacks and greenhacks, bme medical device design team, wics, and volunteers for medical engineering
 
 what i was up to:
+- 🌻 swe @ [hubspot](https://hubspot.com/) [summer 2025]
 - 🌻 gen ai intern [tech advisor] @ [scale ai](https://scale.com/) [rescinded for being too young]
 - 🌻 swe @ [chapterone](https://www.startchapterone.com/) [winter 2025]
 
