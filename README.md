@@ -9,7 +9,7 @@ i'm a student at johns hopkins majoring in biomedical engineering and computer s
 what i'm currently up to:
 - 🐟 building [dorri](https://dorri.land) 
 - 🐟 leading design/marketing @ [hackcanada](https://hackcanada.org/), [ghsen](https://www.ghsen.org/)
-- 🐟 at hopkins, i'm involved in jhu's acm-icpc team, organizing hophacks and greenhacks, bme medical device design team, wics, and volunteers for medical engineering
+- 🐟 at hopkins, i'm involved in jhu's acm-icpc team, co-directing hophacks, bme medical device design team, wics, and volunteers for medical engineering
 
 what i was up to:
 - 🌻 swe @ [hubspot](https://hubspot.com/) [summer 2025]
