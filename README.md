@@ -8,10 +8,10 @@ i'm a student at johns hopkins majoring in biomedical engineering and computer s
 
 
 what i've been up to (employment edition):
-- 🌻 incoming member of technical staff intern @ [openai](https://openai.com) [summer 2026]
-- 🌻 swe @ [hubspot](https://hubspot.com/) [summer 2025]
+- 🌻 member of technical staff intern @ [openai](https://openai.com) [summer 2026]
+- 🌻 swe intern @ [hubspot](https://hubspot.com/) [summer 2025]
 - 🌻 gen ai intern [tech advisor] @ [scale ai](https://scale.com/) [rescinded for being too young]
-- 🌻 swe @ [chapterone](https://www.startchapterone.com/) [winter 2025]
+- 🌻 swe intern @ [chapterone](https://www.startchapterone.com/) [winter 2025]
 
 what i've been up to (side questing edition):
 - 🐟 building [dorri](https://dorri.land) 
